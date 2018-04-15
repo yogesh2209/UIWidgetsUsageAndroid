@@ -1,0 +1,157 @@
+<resources>
+    <string name="app_name">Yogesh_Kohli_Assignment_2</string>
+    <string name="textviewMajor">Major</string>
+    <string name="textviewPhone">Phone</string>
+    <string name="textviewEmail">Email</string>
+    <string name="textviewAge">Age</string>
+    <string name="textviewLastName">Last Name</string>
+    <string name="textviewFirstName">First Name</string>
+    <string name="editTextStringAge">In years*</string>
+    <string name="editTextStringLastName">Last Name*</string>
+    <string name="editTextStringFirstName">First Name*</string>
+    <string name="editTextStringEmail">abc@xyz.com*</string>
+    <string name="editTextStringPhone">##########*</string>
+    <string name="select_a_major">Select a major</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="doneButtonString">Done</string>
+    <string name="cancel">Cancel</string>
+    <string name="cancel_selection">CANCEL SELECTION</string>
+    <string name="next">Next</string>
+    <string name="not_selected">Not selected</string>
+    <string name="selectButton">Done Selecting</string>
+    <string name="textviewSelectedMajor">Not selected</string>
+    <string name="advance_degree_list">Advance Degree List</string>
+    <string name="majors_list">Majors List</string>
+    <string name="done">DONE</string>
+    <string name="not_string_not_selected">not selected</string>
+
+
+    <string-array name="advance_degrees">
+        <item>Doctor of Philosophy (Ph.D.)</item>
+        <item>Doctor of Education (Ed.D.)</item>
+        <item>Master of Arts (MA)</item>
+        <item>Master of Science (MS)</item>
+        <item>Master of Fine Arts (MFA)</item>
+        <item>Professional Master's Degrees</item>
+    </string-array>
+
+    <string-array name="phd">
+        <item>Bioengineering</item>
+        <item>Biology</item>
+        <item>Chemistry</item>
+        <item>Clinical Psychology</item>
+        <item>Computational Science</item>
+        <item>Ecology</item>
+        <item>Education</item>
+        <item>Engineering/Bioengineering</item>
+        <item>Engineering/Electrical and Computer</item>
+        <item>Engineering/Mechanical and Aerospace</item>
+        <item>Engineering/Structural</item>
+        <item>Evolutionary Biology</item>
+        <item>Geography</item>
+        <item>Geophysics</item>
+        <item>Language and Communicative Disorders</item>
+        <item>Mathematics and Science Education</item>
+        <item>Public Health</item>
+    </string-array>
+
+    <string-array name="edd">
+        <item>Educational Leadership/Pre K-12</item>
+        <item>Educational Leadership/Post Secondary Community College</item>
+    </string-array>
+
+    <string-array name="ma">
+        <item>Anthropology</item>
+        <item>Art</item>
+        <item>Biology</item>
+        <item>Chemistry</item>
+        <item>Chicana and Chicano Studies</item>
+        <item>Communication</item>
+        <item>Speech, Language and Hearing Sciences</item>
+        <item>Economics</item>
+        <item>Education</item>
+        <item>English</item>
+        <item>French</item>
+        <item>Geography</item>
+        <item>History</item>
+        <item>Interdisciplinary Studies</item>
+        <item>Journalism and Media Studies</item>
+        <item>Latin American Studies</item>
+        <item>Liberal Arts and Sciences</item>
+        <item>Linguistics</item>
+        <item>Mathematics</item>
+        <item>Music</item>
+        <item>Philosophy</item>
+        <item>Physics</item>
+        <item>Political Science</item>
+        <item>Psychology</item>
+        <item>Rhetoric and Writing Studies</item>
+        <item>Sociology</item>
+        <item>Spanish</item>
+        <item>Television, Film and New Media Production</item>
+        <item>Theatre Arts</item>
+        <item>Women's Studies</item>
+    </string-array>
+
+    <string-array name="ms">
+        <item>Accountancy</item>
+        <item>Aerospace Engineering</item>
+        <item>Applied Mathematics</item>
+        <item>Astronomy</item>
+        <item>Bioengineering</item>
+        <item>Biology</item>
+        <item>BioInformatics and Medical Informatics</item>
+        <item>Business Administration</item>
+        <item>Chemistry</item>
+        <item>Child Development</item>
+        <item>Civil Engineering</item>
+        <item>Computational Science</item>
+        <item>Computer Science</item>
+        <item>Counseling</item>
+        <item>Criminal Justice and Criminology</item>
+        <item>Electrical Engineering</item>
+        <item>Exercise Physiology</item>
+        <item>Geography</item>
+        <item>Geological Sciences</item>
+        <item>Gerontology</item>
+        <item>Homeland Security</item>
+        <item>Hospitality and Tourism Management</item>
+        <item>Information Systems</item>
+        <item>Interdisciplinary Studies</item>
+        <item>Kinesiology</item>
+        <item>Mechanical Engineering</item>
+        <item>Medical Physics</item>
+        <item>Microbiology</item>
+        <item>Nursing</item>
+        <item>Nutritional Sciences</item>
+        <item>Physics</item>
+        <item>Psychology</item>
+        <item>Public Health</item>
+        <item>Regulatory Affairs</item>
+        <item>Rehabilitation Counseling</item>
+        <item>Statistics</item>
+    </string-array>
+
+    <string-array name="mfa">
+        <item>Art</item>
+        <item>Creative Writing</item>
+        <item>Design and Technical Theatre</item>
+        <item>Musical Theatre</item>
+        <item>Theatre Arts</item>
+    </string-array>
+
+    <string-array name="pmd">
+        <item>Master of Business Administration (MBA)</item>
+        <item>Master of City Planning (MCP)</item>
+        <item>Master of Engineering (ME)</item>
+        <item>Master of Music (MM)</item>
+        <item>Master of Public Administration(MPA)</item>
+        <item>Master of Public Health (MPH)</item>
+        <item>Master of Social Work (MSW)</item>
+    </string-array>
+
+
+
+</resources>

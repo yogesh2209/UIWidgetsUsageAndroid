@@ -1,0 +1,32 @@
+Enter name, age, email, phone10/10                   
+
+
+Correct keyboard,  does not hide text field5/5     
+
+
+Saving data permanently and retrieving the data 20/25
+
+-5(major is not saved)                                                                                                     
+        
+Major selection uses fragments25/25
+
+
+Major selection works properly,
+User can select major, cancel selection20/20
+
+
+
+Going back to personal activity does not create a new activity5/5
+
+
+Degree types and majors not hard coded 5/5
+
+
+
+Look of the app. 4/5
+
+-1 (Major button is not aligned)
+
+
+
+Total 	94/100
